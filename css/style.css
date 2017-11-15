@@ -266,7 +266,7 @@ li a.active {
 /*service area*/
 
 .service {
-    background: url(https://3.bp.blogspot.com/-R4vV2XgPgi0/WgvGaIFV8tI/AAAAAAAAAig/2hfD59ewldguS9ZPxUEdZMBvyr2tQKKugCLcBGAs/s1600/pattern.jpg);
+    background: url('https://3.bp.blogspot.com/-R4vV2XgPgi0/WgvGaIFV8tI/AAAAAAAAAig/2hfD59ewldguS9ZPxUEdZMBvyr2tQKKugCLcBGAs/s1600/pattern.jpg');
     background-repeat: repeat-y;
     margin-top: 40px;
 }
@@ -557,7 +557,7 @@ li a.active {
     float: right;
     font-size: 24px;
     color: #fff;
-    background: url(https://3.bp.blogspot.com/-6WntW3h9XpU/WgvIiuIEyzI/AAAAAAAAAis/ctBoWp_W9Bobk1qn9QiZ2vnS1ALtEoMZwCLcBGAs/s1600/btn-bg.jpg);
+    background: url('https://3.bp.blogspot.com/-6WntW3h9XpU/WgvIiuIEyzI/AAAAAAAAAis/ctBoWp_W9Bobk1qn9QiZ2vnS1ALtEoMZwCLcBGAs/s1600/btn-bg.jpg');
     background-repeat: no-repeat;
     padding: 0;
     font-family: 'BenchNine', sans-serif;
