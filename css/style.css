@@ -24,6 +24,9 @@ h2 {
     position: fixed;
     width: 100%;
     z-index: 99999;
+    -webkit-box-shadow: 0px 0px12px 3px rgba(41,41,41,.25);
+    -moz-box-shadow: 0px 0px 12px 3px rgba(41,41,41,.25);
+    box-shadow: 0px 0px 12px 3px rgba(41,41,41,.25);
 }
 .header-backup {
     width: 20px;
