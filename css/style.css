@@ -589,7 +589,7 @@ li a.active {
     background: rgba(0, 0, 0, 0.51);
 }
 .contact-caption {
-    margin-top: 105px;
+    margin-top: 90px;
 }
 
 /*footer*/
@@ -746,7 +746,7 @@ responsive area
         height: 1050px;
     }
     .contact-caption {
-        margin-top: 110px;
+        margin-top: 95px;
     }
 }
 
@@ -793,7 +793,7 @@ responsive area
         width: 25px;
     }
     .contact-caption {
-        margin-top: 140px;
+        margin-top: 125px;
     }
 }
 
